@@ -1,4 +1,4 @@
-# Skechers Sales and Trend Analysis
+# Positioning Skechers Against its Peers in the Shoe Market
 ## Project Objective
 The main problem is understanding the market of shoes, their prices and online ratings, and determine how that is related to size and gender. This will ultimately provide me with the opportunity of recommeding some actions to Skechers (job I am applying to) on how they can take advantage of some of these market trends and how the company should position itself, compared to its peers in the industry.
 I am using Python and SQL to collect and analyze the data and hopefully, find some interesting insights on the main problem described.
